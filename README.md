@@ -2,6 +2,6 @@
 
 Projeto de Educação Financeira para crianças.
 
-JavaScript and Node -> API
-React -> Front
+JavaScript and Node -> API /
+React -> Front /
 MongoDB -> database
