@@ -1,6 +1,6 @@
 # FinKids_web
 
-Projeto de Educação Financeira para crianças.
+TCC de Sistemas de Informação da Universidade São Judas Tadeu - projeto de Educação Financeira para crianças.
 
 JavaScript and Node -> API /
 React -> Front /
